@@ -1,0 +1,19 @@
+body{
+    font-family: 'Kanit', sans-serif !important;
+    background-color: rgb(238, 238, 238);
+}
+
+.myCenter{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-body{
+    background: url(https://graffitiwallpaper.com/pics/listings/362_wide.jpg) center/cover;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.inputCard{
+    background-color: white;
+}
